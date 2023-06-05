@@ -1,0 +1,16 @@
+.text{
+    margin: 0px;
+    border-style: none;
+    font-weight: bold;
+    font-size:120%;
+    color: white;
+  
+}
+.fill_color{
+    color: white;
+}
+.navbar{
+    padding-top: 0;
+    padding-bottom: 0;
+    
+}

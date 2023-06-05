@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "project-21fb7": {
+      "hosting": {
+        "app": [
+          "project-21fb7"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "project-21fb7"
+  }
+}

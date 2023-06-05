@@ -1,0 +1,27 @@
+.footer{
+    padding-bottom: 0;
+    padding-top: 0;
+}
+.text{
+    margin: 0px;
+    border-style: none;
+    font-weight: bold;
+    font-size:24%;
+}
+.fill_color{
+    color: white;
+}
+.phone{
+    font-weight: bold;
+    margin-right: 1%;
+    margin-left: 1%;
+    font-size:30%;
+    color: white;
+    display: inline-block;
+}
+.icon{
+    margin-bottom: 0;
+}
+.inline{
+    display: inline-block;
+}

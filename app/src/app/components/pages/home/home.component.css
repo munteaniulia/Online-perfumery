@@ -1,0 +1,24 @@
+.center-align {
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-bottom: 5%;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 5%;
+  color: white;
+ }
+ .center-align h2 {
+    font-size: 24px; /* Dimensiunea fontului */
+}
+.marg-h1{
+    padding-right: 25%;
+    margin-right: 20%;
+}
+.inline{
+    display: inline-block;
+}
+.padding{
+padding: 0;
+}

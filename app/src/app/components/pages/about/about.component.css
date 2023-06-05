@@ -1,0 +1,16 @@
+.center-align {
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-bottom: 5%;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 5%;
+  color: black;
+  font-size: 150%;
+ }
+ .center-align-h1 {
+    padding-top: 5%;
+    text-align: center;
+}

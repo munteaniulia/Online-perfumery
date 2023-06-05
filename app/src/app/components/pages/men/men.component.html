@@ -1,0 +1,18 @@
+<body class=" margin padding" style="background-image: linear-gradient(to bottom, rgb(0, 0, 0), rgba(0, 32, 130, 0.885));">
+    <div *ngFor="let perfume of perfumesFromDBM" class="center-align">
+        <div>
+            <img [src]="perfume.img" alt="Perfume Image" class="perfume-image">
+    
+            <button (click)="addToCart(perfume)" class="btn btn-style" type="button" >ADD TO CART</button>
+    
+        </div>
+        <div style="padding-left:25% ;">
+            <h3>{{ perfume.name }}</h3>
+            <p>{{ perfume.brand }}</p>
+            <p>Price: {{ perfume.price }} RON</p>
+            <p>{{perfume.ml}}ml</p>
+            <p>Description: {{ perfume.description }}</p>
+        </div>
+    
+    </div>
+    </body>

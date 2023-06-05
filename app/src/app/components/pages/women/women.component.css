@@ -1,0 +1,36 @@
+.perfume-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .perfume-image {
+    margin-right: 10px;
+    width: 295.5px; /* Specificați lățimea dorită */
+  height: 300px; /* Înălțimea se ajustează proporțional */
+  }
+  
+  .perfume-details {
+    flex: 1;
+  }
+  
+  .perfume-name {
+    font-weight: bold;
+  }
+  .center-align {
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-bottom: 5%;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 5%;
+  color: white;
+ }
+.btn-style{
+    width: 98%; 
+    background-color: black;
+    color: white;
+    margin-top: 5%;
+}
